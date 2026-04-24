@@ -1,5 +1,11 @@
 # Student Manager Plugin
 
+## Thông tin sinh viên
+
+- Họ và tên: Đinh trọng nghĩa
+- Mã sinh viên: 23810310119
+- Lớp: D18CNPM2
+
 Plugin WordPress quản lý sinh viên bằng Custom Post Type, Custom Meta Box và Shortcode.
 
 ## Chức năng
