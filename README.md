@@ -26,5 +26,17 @@ student-manager/
 ├── assets/
 │   └── style.css
 ├── screenshots/
-│   ├── admin-student.png
+│   ├── danh_sách_sinh_viên_ngoài_ Frontend.png
+│   └── ảnh_nhập_sinh_viên_trong_admin.png
 └── README.md
+```
+
+## Screenshots
+
+### Nhập sinh viên trong trang quản trị
+
+![Nhập sinh viên trong admin](<./screenshots/ảnh_nhập_sinh_viên_trong_admin.png>)
+
+### Danh sách sinh viên ngoài frontend
+
+![Danh sách sinh viên ngoài frontend](<./screenshots/danh_sách_sinh_viên_ngoài_ Frontend.png>)
